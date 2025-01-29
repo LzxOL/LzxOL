@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 🏆 Recipient of multiple **national-level awards** in **AI & Robotics** competitions;
 - 🔍 Currently researching **semantic segmentation in OFF-ROAD scenarios**.
  [`leetcode`](https://leetcode.cn/u/hcZvb79YVi/)
+--!>
