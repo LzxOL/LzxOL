@@ -3,9 +3,8 @@
 AI Enthusiast & Robotics Researcher based in 🇨🇳 **Beijing**.
 
 Some facts about me:
-- 🎓 Junior undergraduate at **Wuhan University of Technology**, and pursuing graduate studies at **BIT**, majoring in **AI** now;
+- 🎓 Junior undergraduate at **Wuhan University of Technology**, and pursuing graduate studies at **BIT**, majoring in **3D Recontruction** now;
 - 🤖 Passionate about **AI & Embodied Intelligence**, aiming to work in this field in the future;
-- 🏆 Recipient of multiple **national-level awards** in **AI & Robotics** competitions;
 - 🔍 Currently researching **Video-based 3D Geometric Perception & Reconstruction**.
 
 Personal info:
