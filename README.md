@@ -8,5 +8,5 @@ Some facts about me:
 - 🔍 Currently researching **Video-based 3D Geometric Perception & Reconstruction**.
 
 Personal info:
-- 📨 Email: 339279@whut.edu.cn
+- 📨 Email: 339279@whut.edu.cn / 1604900106@qq.com
 - 💡 Leetcode:https://leetcode.cn/u/hcZvb79YVi/
