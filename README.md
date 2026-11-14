@@ -1,9 +1,9 @@
 ### 👋 Hey there, I'm **Lin Zhaoxian**,
 
-AI Enthusiast & Robotics Researcher based in 🇨🇳 **Beijing**.
+AI Enthusiast based in 🇨🇳 **Beijing**.
 
 Some facts about me:
-- 🎓 Junior undergraduate at **Wuhan University of Technology**, and pursuing graduate studies at **BIT**, majoring in **3D Recontruction** now;
+- 🎓 Junior undergraduate at **Wuhan University of Technology**, and pursuing graduate studies at **Advanced Research Institute of Multidisciplinary Science, BIT**, majoring in **3D Reconstruction and Stereo Matching** now;
 - 🤖 Passionate about **AI & Embodied Intelligence**, aiming to work in this field in the future;
 - 🔍 Currently researching **Video-based 3D Geometric Perception & Reconstruction**.
 
